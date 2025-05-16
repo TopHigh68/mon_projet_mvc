@@ -41,7 +41,7 @@ mon-projet-mvc/
 1. Clone ou télécharge ce dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/mon-projet-mvc.git
+git clone https://github.com/TopHigh68/mon_projet_mvc.git
 ```
 
 2. Crée une base de données MySQL, par exemple `mvc_db`.
